@@ -12,10 +12,8 @@ import {
   Terminal,
   RefreshCcw,
   Sparkles as SparkleIcon,
-  Image as ImageIcon,
   Layers,
   ShieldAlert,
-  Play,
   Calendar,
   Clock,
   GraduationCap
